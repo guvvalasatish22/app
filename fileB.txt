@@ -1,2 +1,3 @@
 this is second file
 java
+made new changes in featureB.
