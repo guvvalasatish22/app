@@ -1,4 +1,2 @@
 this is second file
 java
-let's make a change
-let's make a change in main and featureB branch
